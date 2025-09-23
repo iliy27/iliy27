@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Iliyan
 
-<!--
-**iliy27/iliy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's degree student in Computer Engineering at the Polytechnic University of Turin.  
+💻 Passionate about cloud computing, distributed systems, and software development.  
+🚀 Always eager to learn new technologies and face new challenges.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Python, C, Bash, Java
+- Frameworks: Django, React
+- Tools: Git, Docker, Nmap
+- Areas: Cloud Computing, Distributed Systems, Full-stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Project 1](#) – Short description
+- [Project 2](#) – Short description
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/iliyan-kostadinov-9507a3279/)  
+- Email: your-email@example.com
