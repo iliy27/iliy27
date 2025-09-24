@@ -5,15 +5,11 @@
 🚀 Always eager to learn new technologies and face new challenges.  
 
 ## 🔧 Technologies & Tools
-- Languages: Python, C, Bash, Java
-- Frameworks: Django, React
-- Tools: Git, Docker, Nmap
-- Areas: Cloud Computing, Distributed Systems, Full-stack Development
-
-## 📂 Featured Projects
-- [Project 1](#) – Short description
-- [Project 2](#) – Short description
+- Languages: C, Java, Javascript, Python, Rust, Kotlin
+- Frameworks: React, Express, SpringBoot
+- Tools: Git, Docker, Kubernetes
+- Areas: Cloud Computing, Distributed Systems, Software and Full-stack Development
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/iliyan-kostadinov-9507a3279/)  
-- Email: your-email@example.com
+- Email: iliyan.kostadinov2705@gmail.com
